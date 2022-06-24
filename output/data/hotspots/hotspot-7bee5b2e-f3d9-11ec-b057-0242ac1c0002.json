@@ -1,0 +1,154 @@
+[
+    {
+        "images": [
+            0,
+            1,
+            2,
+            5,
+            9,
+            12,
+            13,
+            14,
+            16,
+            17,
+            19,
+            20,
+            21,
+            23,
+            26,
+            76,
+            78
+        ],
+        "img": "2205_OSTA_ML_6071038_f87bf64fed31412a.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            3,
+            4,
+            11,
+            18,
+            27,
+            32,
+            47,
+            50,
+            77,
+            79,
+            80,
+            81,
+            86
+        ],
+        "img": "2205_OSTA_ML_6071653_003a53948d3f4dd1.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            6,
+            7,
+            24,
+            28,
+            57,
+            70,
+            74,
+            82,
+            83,
+            87
+        ],
+        "img": "2205_OSTA_ML_6071668_0a1f204f73f1482c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            8,
+            25,
+            46,
+            48,
+            55,
+            56,
+            58,
+            63,
+            66,
+            75
+        ],
+        "img": "2205_OSTA_ML_6069056_89ebf056f1f3a688.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            37,
+            38,
+            44,
+            45,
+            49,
+            67,
+            69,
+            73,
+            84
+        ],
+        "img": "2205_OSTA_ML_6071629_d688ff516e4054d2.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            35,
+            42,
+            51,
+            52,
+            53,
+            54
+        ],
+        "img": "2205_OSTA_CP_post_OMA__0003_Layer 4.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    },
+    {
+        "images": [
+            59,
+            60,
+            61,
+            62,
+            64,
+            72
+        ],
+        "img": "2205_OSTA_ML_6069050_0d9c693d2ca681ee.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 7"
+    },
+    {
+        "images": [
+            29,
+            30,
+            33,
+            34,
+            85
+        ],
+        "img": "2205_OSTA_ML_6071647_29ea5bbc3ff55011.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 8"
+    },
+    {
+        "images": [
+            10,
+            15,
+            22
+        ],
+        "img": "2205_OSTA_CP_6068287_44995dde89f584fc.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 9"
+    },
+    {
+        "images": [
+            31,
+            36,
+            40
+        ],
+        "img": "2205_OSTA_CP_6070316_99b139f70e3977f2.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 10"
+    }
+]
